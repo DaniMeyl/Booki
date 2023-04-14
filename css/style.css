@@ -621,6 +621,10 @@ padding-left: 19px;}
   .hebergements {
     background-color: white !important;
   }
+  ul {
+    width:250px;
+  }
+ 
 
   .populaires-cards {
     display: flex;
@@ -660,9 +664,7 @@ box-sizing: border-box;}
     gap: 40px;
     box-sizing:border-box;
     width:100%;
-  }
-  ul {
-    width:250px;
+  
   }
  
   
