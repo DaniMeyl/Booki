@@ -463,7 +463,6 @@ li {
 
   .hebergements {
     width: 100%;
-    background: turquoise;
   }
 
   .populaires {
@@ -659,6 +658,7 @@ box-sizing: border-box;}
     padding: 30px;
     height: 100%;
     gap: 40px;
+    box-sizing:border-box;
   }
   
 }
