@@ -659,10 +659,11 @@ box-sizing: border-box;}
     height: 100%;
     gap: 40px;
     box-sizing:border-box;
+    width:100%;
   }
   ul {
-    width:150px;
+    width:250px;
   }
- footer {width:100%;}
+ 
   
 }
