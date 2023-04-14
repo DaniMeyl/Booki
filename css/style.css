@@ -663,5 +663,6 @@ box-sizing: border-box;}
   ul {
     width:150px;
   }
+  .footer {width:100%}
   
 }
